@@ -1,0 +1,309 @@
+p {
+    color: #757575;
+    font-size: 13px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    margin: auto;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: auto;
+}
+a:hover { text-decoration: none;}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+a{
+    margin: auto;
+    list-style-type: none;
+}
+body{
+    background-color: #FAFAFA;
+}
+.single-blog-area {
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.single-blog-post {
+    position: relative;
+}
+
+.single-blog-post-img img {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.single-blog-post-img {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-bottom: 20px;
+}
+
+.single-blog-post-text p {
+    margin: auto;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.single-blog-post-text h2 {
+    position: relative;
+    margin: auto;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.single-blog-post-text h3 {
+    font-size: 25px;
+    margin: auto;
+    font-weight: 700;
+}
+.blog-post-social span {
+    position: relative;
+    font-size: 16px;
+    margin-top: 14px;
+    font-weight: 700;
+}
+
+.blog-post-social {
+    letter-spacing: 0;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.blog-comments-section h2 {
+    position: relative;
+    margin: auto;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.share-social li {
+    float: left;
+    margin-top: 0;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+.share-social li a {
+    width: auto;
+    height: auto;
+    line-height: 1;
+    border-radius: 0;
+    position: relative;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.share-social li a:before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 1px;
+    width: 1px;
+    height: 21px;
+    background-color: #999;
+}
+.share-social li a i {
+    font-size: 20px;
+    color: #333;
+    vertical-align: middle;
+}
+.com-title{
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 35px;
+    font-weight: 700;
+}
+.blog-comment-text ul li{
+    list-style-type: none;
+    text-decoration: none;
+}
+.share-social  span {
+    margin-left: 10px;
+    font-size: 13px;
+    line-height: 1;
+    color: #999;
+    vertical-align: middle;
+}
+.single-comments{
+    position: relative;
+    background-color: #fff;
+    padding: 30px 30px 21px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+}
+
+.single-comments{
+    -webkit-transition: all .3s ease!important;
+    transition: all .3s ease!important;
+    box-shadow: 0 1px 4px rgba(0,0,0,.26);
+}
+.single-comments:hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,.15)!important;
+    -webkit-transition: all .3s ease!important;
+    transition: all .3s ease!important;
+}
+.comment-thumb img{
+    position: relative;
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+}
+.mdl-button--accent.mdl-button--accent.mdl-button--raised.btn-black{
+    background-color: black;
+    color: #fff;
+    font-weight: 700;
+    -webkit-transition: all .3s ease!important;
+    transition: all .3s ease!important;
+    box-shadow: 0 1px 4px rgba(0,0,0,.26);
+}
+.mdl-button--accent.mdl-button--accent.mdl-button--raised.btn-black:hover{
+    background-color: #fd5049;
+    box-shadow: 0 15px 30px rgba(0,0,0,.15)!important;
+    -webkit-transition: all .3s ease!important;
+    transition: all .3s ease!important;
+}
+span.comment-reply {
+    font-size: 11px;
+    color: #fff;
+    height: 25px;
+    padding: 0 13px;
+    line-height: 25px;
+    min-width: auto;
+    margin: auto;
+    text-shadow: none;
+}
+.commente-bcs a{
+    font-size: 13px;
+    line-height: 1.3;
+    color: #444;
+    display: block;
+    font-weight: 700;
+    margin-bottom: 8px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.commente-bcs .date{
+    margin: auto;
+    font-size: 11px;
+    line-height: 1;
+    color: #999;
+    margin-bottom: 0;
+}
+.commente-contant{
+    margin: auto;
+    padding-left: 80px;
+    margin-top: 20px;
+}
+.blog-comment-text ul ul{
+    margin: auto;
+}
+.blog-sidebar-area {
+    position: relative;
+    margin-left: 40px;
+}
+h3.blog-sidebar-title{
+    font-family: Roboto,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 19px;
+    margin-top: -6px;
+}
+.recent-blog-posts li{
+    padding: 16px 0;
+    border-bottom: 1px solid #e8e8e8;
+}
+.recent-blog-posts li:first-child{
+    padding-top: 0;
+}
+.recent-blog-item a{
+    font-family: Roboto,sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 1.45;
+    color: #666;
+    text-decoration: none;
+}
+.recent-blog-item a:hover{
+    text-decoration: none;
+    color: #ff5252;
+}
+.recent-blog-item span{
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 1;
+    color: #999;
+    margin-top: 10px;
+    display: block;
+}
+.blog-sidebar-area{
+    margin-bottom: 50px;
+}
+.recent-blog-posts-tags a{
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 1.9;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 2px;
+    float: left;
+    margin: 0 5px 5px 0;
+    background-color: #333;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+.recent-blog-posts-tags a:hover{
+    background-color: #FF5252;
+}
+/* blog comment from */
+.blog-contact-from {
+    position: relative;
+    margin-top: 70px;
+}
+
+.blog-contact-title {
+    position: relative;
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-family: Roboto,sans-serif;
+    text-transform: uppercase;
+}
+.comment-from-groop .mdl-textfield{
+    width: 100%;
+}
+.comment-from-groop .mdl-textfield--floating-label .mdl-textfield__label{
+    font-size: 12px;
+    top: 4px;
+    color: #bbb;
+}
+.comment-from-groop .mdl-textfield--floating-label.is-focused .mdl-textfield__label{
+    font-size: 12px;
+    top: 4px;
+    color: #bbb;
+}
+.comment-from-groop .mdl-textfield__label:after{
+    bottom: 15px;
+    color: #333;
+    background-color: #333;
+}
+.blog-comment-btn{
+    text-align: left;
+}
+.comment-from-groop .mdl-button--accent.mdl-button--accent.mdl-button--raised{
+    background-color: #333;
+}
+.comment-from-groop .mdl-button--accent.mdl-button--accent.mdl-button--raised:hover{
+    color: #fff;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,.18),0 4px 15px 0 rgba(0,0,0,.15);
+}

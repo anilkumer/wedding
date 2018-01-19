@@ -1,0 +1,385 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+	.count-area ul li {
+	    padding: 18px;
+	    line-height: 42px;
+	}
+	.br-social-icon {
+	    margin-top: -34px;
+	    margin-left: 9px;
+	}
+	.br-social-icon li {
+	    margin-right: 14px;
+	}
+	.blog-post-area h5 {
+	    font-size: 14px;
+	}
+	.blog-post-area h3 {
+    	font-size: 25px;
+	}
+	.wedding-single-date span {
+    	margin-top: 146px;
+	}
+    .contact-top-img {
+    	background-size: contain;
+    	height: 114%;
+	}
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+    .top-logo{
+    	text-align: left;
+    }
+    .mainmenu {
+	    position: absolute;
+	    right: 0;
+	    top: -63px;
+	}
+	.is-sticky .top-logo img {
+	    padding: 10px 0px;
+	    height: 62px;
+	    top: -5px;
+	}
+	.mainmenu ul.nav.navbar-nav li a {
+	    padding: 15px 5px;
+	}
+	.is-sticky .mainmenu ul.nav.navbar-nav li a {
+	    padding: 15px 5px;
+	}
+	.top-logo img {
+	    position: relative;
+	    top: 0px;
+	}
+	.top-area-bg {
+	    background-size: cover;
+	}
+	.gb-med-img img {
+	    margin-top: -140px;
+	}
+	.icon-link {
+	    width: 34px;
+	    height: 34px;
+	    line-height: 36px;
+	}
+	.gb-love-logo-plus img {
+	    padding-left: 41px;
+	}
+	.count-area ul li {
+	    width: 90%;
+	    line-height: 30px;
+	    margin-left: -55px;
+	}
+	.count-area ul li {
+    	padding: 20px;
+    	margin-right: 11px;
+	}
+	.love-story-text-area h3{
+		font-size: 25px;
+	}
+	.love-story-text-area p{
+		font-size: 13px;
+	}
+	.love-story-date-area span {
+	    font-size: 25px;
+	    margin-right: 70px;
+	    top: 1px;
+	}
+	.love-story-date-area.love-story-data-right span {
+	    font-size: 25px;
+	    margin-right: -70px;
+	    top: 4px;
+	}
+	.br-columes-item h2 {
+	    font-size: 20px;
+	}
+	.br-colunes-relation {
+	    font-size: 18px;
+	}
+	.br-social-icon {
+	    margin-left: 57px;
+	}
+	.blog-post-area h3 {
+    	font-size: 28px;
+    }
+    .blog-post-area h5 {
+    	font-size: 11px;
+    }
+    .baby-gift-title img {
+    	padding-bottom: 55px;
+	}
+	.wedding-single-item h2 {
+	    font-size: 20px;
+	}
+	.wedding-single-item h3 {
+    	font-size: 16px;
+    	margin-top: -10px;
+    }
+    .wedding-single-item p {
+    	font-size: 12px;
+    }
+    .wedding-single-date span {
+	    margin-top: 97px;
+	}
+    .contact-top-img {
+	    background-size: contain;
+	    height: 42%;
+	}
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ 
+    .top-logo{
+    	text-align: left;
+    }
+    .is-sticky .navbar-toggle{
+    	top: -30px;
+    }
+    .navbar-toggle {
+    	float: none;
+    	margin: 0;
+    	border: 1px solid #fff;
+    	top: -42px;
+	}
+	.navbar-toggle .icon-bar{
+		background:#fff;
+	}
+	.is-sticky .mainmenu ul.nav.navbar-nav li a {
+	    padding: 15px 5px;
+	}
+	.is-sticky .mainmenu ul.nav.navbar-nav li a {
+	    padding: 8px 0px;
+	}
+	.top-logo img {
+	    position: relative;
+	    top: 12px;
+	}
+	.mobile-menu-activated ul.nav.navbar-nav {
+	    background: #333;
+	    text-align: center;
+	}
+	.mobile-menu-activated ul.nav.navbar-nav li {
+	    display: block;
+	}
+	.mobile-menu-activated ul.nav.navbar-nav li a {
+	    padding: 10px;
+	    border-bottom: 1px solid black;
+	}
+	.is-sticky .mobile-menu-activated ul.nav.navbar-nav {
+	    background: #333;
+	    text-align: center;
+	}
+	.is-sticky .mobile-menu-activated ul.nav.navbar-nav li {
+	    display: block;
+	}
+	.is-sticky .mobile-menu-activated ul.nav.navbar-nav li a {
+	    padding: 10px;
+	    border-bottom: 1px solid black;
+	}
+	.mobile-menu-activated .navbar-collapse{
+		box-shadow: 0 0 0 0;
+	}
+	.header-text-area h2 {
+	    margin-top: 97px;
+	    margin-bottom: 30px;
+	    font-size: 46px;
+	}
+	.header-text-area p {
+	    font-size: 14px;
+	    margin-bottom: 159px;
+	}
+
+	/* bg area*/
+	.gb-title-area h2 {
+	    font-size: 50px;
+	}
+	.gb-title-area img {
+	    padding-bottom: 50px;
+	}
+	.gb-med-img img {
+	    margin-top: -200px;
+	}
+	.gb-love-logo {
+	    padding-top: 80px;
+	    padding-bottom: 190px;
+	}
+	.gb-love-logo-plus img {
+	    padding-top: 100px;
+	    padding-left: 190px;
+	}
+	.countdown-title-area h2 {
+	    font-size: 35px;
+	}
+	.count-area ul li {
+	    margin-bottom: 20px;
+	}
+
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+	.gb-med-img img {
+	    margin-top: -145px;
+	}
+	.gb-love-logo {
+    	margin-left: 38px;
+    }
+    .gb-love-logo-plus img {
+	    padding-top: 103px;
+	    padding-left: 92px;
+	}
+}
+
+
+@media only screen and (min-width: 360px) and (max-width: 380px) { 
+
+	.gb-love-logo-plus img {
+	    padding-left: 158px;
+	}
+	.gb-med-img img {
+	    margin-top: -170px;
+	}
+	.count-area ul li {
+	    width: 100%;
+	    padding: 30px;
+	    margin-left: 18px;
+	}
+}
+@media only screen and (min-width: 320px) and (max-width: 380px) { 
+	.gb-med-img img {
+	    margin-top: -146px;
+	}
+	.gb-med-social {
+	    margin-left: -2px;
+	}
+	.gb-love-logo-plus img {
+	    padding-left: 139px;
+	}
+	.count-area ul li {
+	    width: 100%;
+	    padding: 20px;
+	    margin-right: -34px;
+	}
+	.our-story-title h2{
+		font-size: 40px;
+	}
+	.our-story-title img {
+	    margin-bottom: 0px;
+	}
+	.love-story-text-area {
+	    margin-left: 0;
+	    margin-top: 0;
+	}
+	.love-story-text-area h3 {
+	    font-size: 20px;
+	}
+	.love-story-area .line {
+	    position: relative;
+	    background-color: none;
+	    width: 0;
+	    left: 0;
+	    margin: 0;
+	    top: 0;
+	    height: 0;
+	}
+	.love-story-area .line::after {
+	    width: 0;
+	    height: 0;
+	    content: '';
+	}
+	.love-story-timeline-img i {
+	    width: 0px;
+	    height: 0px;
+	    border: none;
+	    padding: 0px;
+	    background: none;
+	    color: none;
+	    font-size: 0px;
+	}
+	.love-story-text-area::before {
+	    border-style: solid none none solid;
+	    border-width: 0;
+	    box-shadow: 0;
+	    content: "";
+	    background-color: none;
+	    box-shadow: 0px 0px 0px none;
+	    content: "";
+		position: absolute;
+		-moz-border-bottom-colors: none;
+		-moz-border-left-colors: none;
+		-moz-border-right-colors: none;
+		-moz-border-top-colors: none;
+		background-color: #FFFFFF;
+		border-color: rgba(0, 0, 0, 0.15) -moz-use-text-color -moz-use-text-color rgba(0, 0, 0, 0.15);
+		border-image: none;
+		width: 0px;
+		height: 0px;
+	}
+	.love-story-date-area {
+	    position: absolute;
+	    margin-top: -325px;
+		margin-left: 30px;
+	}
+	.love-story-date-area span {
+	    position: relative;
+	    font-size: 21px;
+	    margin-top: 0;
+	    text-align: center;
+	    margin-left: 55px;
+	}
+	.love-story-text-area p {
+	    font-size: 16px;
+	    margin-top: 20px;
+	}
+	.love-story-date-area.love-story-data-right {
+	    position: absolute;
+	    margin-top: 20px;
+	    z-index: 999;
+	    margin-left: -42px;
+	    margin-bottom: -20px;
+	}
+	.love-story-text-area.love-story-text-right {
+	    margin-bottom: -20px;
+	    margin-left: 0;
+	}
+	.love-story-date-area.love-story-data-right span {
+	    font-size: 21px;
+	    margin-right: 0px;
+	}
+	.love-story-text-area.love-story-text-right {
+    	margin-top: -36px;
+    }
+    .love-story-text-area.love-story-text-right p{
+    	margin-top: 24px;
+    }
+    .story-end-btn {
+	    margin-top: 25px;
+	}
+	.invited-area-title h2{
+		font-size: 40px;
+	}
+	.invited-area-title .invited-img {
+	    padding-bottom: 10px;
+	    margin-top: 10px;
+	}
+	.blog-title-area h2{
+		font-size: 40px;
+	}
+	.blog-post-area h3 {
+	    font-size: 22px;
+	    font-weight: 700;
+	}
+	.baby-gift-title h2 {
+	    font-size: 40px;
+	}
+	.wedding-event-title h2{
+		font-size: 40px;
+	}
+	.wedding-single-date span {
+    	margin-top: 144px;
+    }
+    .wedding-single-item {
+	    margin-bottom: 20px;
+	}
+}
